@@ -7,8 +7,8 @@ Análisis y visualización del inventario de una empresa salvadoreña con cinco 
 
 ## Integrantes
 
-- William Vásquez
-- Nombre del compañero/a  <!-- reemplazar -->
+- William Edgardo Vásquez Lopez
+- Melvin Lizandro Castro Sorto
 
 ## Contenido del repositorio
 
