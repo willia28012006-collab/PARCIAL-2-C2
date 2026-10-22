@@ -1,0 +1,126 @@
+id_producto,producto,categoria,sucursal,proveedor,stock,costo_unitario,precio_unitario,ultimo_reabastecimiento
+P0001,"Televisor 43""",Electrónica,San Salvador,Grupo Mayorista SV,117,273.16,362.09,2026-08-13
+P0002,Audífonos Bluetooth,Electrónica,San Salvador,Grupo Mayorista SV,76,18.88,27.65,2026-09-23
+P0003,Parlante portátil,Electrónica,San Salvador,Distribuidora Cuscatlán,100,31.01,45.87,2026-07-01
+P0004,Cargador USB-C,Electrónica,San Salvador,Grupo Mayorista SV,68,6.35,8.91,2026-08-22
+P0005,Smartphone básico,Electrónica,San Salvador,Comercial Pacífico,104,126.14,154.88,2026-07-18
+P0006,Licuadora,Hogar,San Salvador,Distribuidora Cuscatlán,55,23.03,35.4,2026-07-12
+P0007,Plancha,Hogar,San Salvador,Grupo Mayorista SV,44,14.5,19.43,2026-09-25
+P0008,Olla de presión,Hogar,San Salvador,Importadora Centroamericana,49,29.15,37.16,2026-06-30
+P0009,Juego de sábanas,Hogar,San Salvador,Comercial Pacífico,113,14.54,17.53,2026-07-14
+P0010,Ventilador,Hogar,San Salvador,Distribuidora Cuscatlán,56,20.83,30.46,2026-09-15
+P0011,Taladro eléctrico,Ferretería,San Salvador,Comercial Pacífico,21,46.66,62.45,2026-08-08
+P0012,Juego de destornilladores,Ferretería,San Salvador,Importadora Centroamericana,61,9.2,11.7,2026-09-12
+P0013,Cinta métrica,Ferretería,San Salvador,Comercial Pacífico,41,4.24,5.27,2026-08-24
+P0014,Pintura galón,Ferretería,San Salvador,Distribuidora Cuscatlán,110,17.38,25.44,2026-09-06
+P0015,Candado,Ferretería,San Salvador,Comercial Pacífico,33,4.76,5.65,2026-06-29
+P0016,Cuaderno universitario,Papelería,San Salvador,Comercial Pacífico,112,1.16,1.66,2026-07-25
+P0017,Caja de lapiceros,Papelería,San Salvador,Comercial Pacífico,29,2.99,3.54,2026-08-17
+P0018,Resma de papel,Papelería,San Salvador,Importadora Centroamericana,61,4.43,6.81,2026-07-19
+P0019,Mochila escolar,Papelería,San Salvador,Comercial Pacífico,123,10.59,16.0,2026-07-10
+P0020,Calculadora,Papelería,San Salvador,Comercial Pacífico,80,7.78,11.61,2026-09-08
+P0021,Aceite 1L,Alimentos,San Salvador,Distribuidora Cuscatlán,0,2.46,3.47,2026-08-17
+P0022,Arroz 5 lb,Alimentos,San Salvador,Grupo Mayorista SV,33,2.71,3.23,2026-09-05
+P0023,Frijoles 5 lb,Alimentos,San Salvador,Importadora Centroamericana,66,4.18,5.8,2026-08-06
+P0024,Azúcar 5 lb,Alimentos,San Salvador,Grupo Mayorista SV,39,2.5,3.36,2026-07-13
+P0025,Café molido 1 lb,Alimentos,San Salvador,Comercial Pacífico,70,3.97,5.26,2026-09-05
+P0026,"Televisor 43""",Electrónica,Santa Ana,Comercial Pacífico,42,265.73,317.13,2026-09-28
+P0027,Audífonos Bluetooth,Electrónica,Santa Ana,Comercial Pacífico,2,18.9,22.55,2026-09-28
+P0028,Parlante portátil,Electrónica,Santa Ana,Importadora Centroamericana,92,29.95,44.38,2026-07-31
+P0029,Cargador USB-C,Electrónica,Santa Ana,Grupo Mayorista SV,1,6.1,7.64,2026-08-24
+P0030,Smartphone básico,Electrónica,Santa Ana,Importadora Centroamericana,63,127.91,185.4,2026-06-18
+P0031,Licuadora,Hogar,Santa Ana,Importadora Centroamericana,106,23.11,32.69,2026-09-07
+P0032,Plancha,Hogar,Santa Ana,Comercial Pacífico,137,16.08,20.04,2026-09-13
+P0033,Olla de presión,Hogar,Santa Ana,Importadora Centroamericana,122,28.78,43.16,2026-09-23
+P0034,Juego de sábanas,Hogar,Santa Ana,Distribuidora Cuscatlán,70,14.21,17.16,2026-06-21
+P0035,Ventilador,Hogar,Santa Ana,Grupo Mayorista SV,32,19.32,26.13,2026-07-26
+P0036,Taladro eléctrico,Ferretería,Santa Ana,Distribuidora Cuscatlán,58,46.94,67.86,2026-07-11
+P0037,Juego de destornilladores,Ferretería,Santa Ana,Grupo Mayorista SV,78,8.9,11.97,2026-08-28
+P0038,Cinta métrica,Ferretería,Santa Ana,Comercial Pacífico,64,3.81,5.23,2026-06-26
+P0039,Pintura galón,Ferretería,Santa Ana,Comercial Pacífico,32,18.29,25.39,2026-08-26
+P0040,Candado,Ferretería,Santa Ana,Importadora Centroamericana,35,4.76,5.68,2026-07-13
+P0041,Cuaderno universitario,Papelería,Santa Ana,Grupo Mayorista SV,176,1.23,1.84,2026-08-12
+P0042,Caja de lapiceros,Papelería,Santa Ana,Grupo Mayorista SV,19,3.1,4.64,2026-08-25
+P0043,Resma de papel,Papelería,Santa Ana,Distribuidora Cuscatlán,25,4.75,5.66,2026-07-18
+P0044,Mochila escolar,Papelería,Santa Ana,Comercial Pacífico,89,10.89,13.15,2026-07-08
+P0045,Calculadora,Papelería,Santa Ana,Comercial Pacífico,0,7.72,8.94,2026-08-24
+P0046,Aceite 1L,Alimentos,Santa Ana,Grupo Mayorista SV,70,2.49,3.26,2026-07-12
+P0047,Arroz 5 lb,Alimentos,Santa Ana,Importadora Centroamericana,224,2.68,3.28,2026-06-24
+P0048,Frijoles 5 lb,Alimentos,Santa Ana,Distribuidora Cuscatlán,67,4.02,5.22,2026-10-02
+P0049,Azúcar 5 lb,Alimentos,Santa Ana,Grupo Mayorista SV,96,2.78,3.31,2026-09-06
+P0050,Café molido 1 lb,Alimentos,Santa Ana,Comercial Pacífico,47,4.1,5.77,2026-09-06
+P0051,"Televisor 43""",Electrónica,San Miguel,Distribuidora Cuscatlán,45,275.99,368.48,2026-10-07
+P0052,Audífonos Bluetooth,Electrónica,San Miguel,Importadora Centroamericana,130,18.22,23.99,2026-07-19
+P0053,Parlante portátil,Electrónica,San Miguel,Importadora Centroamericana,42,29.98,42.7,2026-07-05
+P0054,Cargador USB-C,Electrónica,San Miguel,Comercial Pacífico,131,5.96,8.13,2026-08-10
+P0055,Smartphone básico,Electrónica,San Miguel,Grupo Mayorista SV,91,123.87,156.73,2026-08-16
+P0056,Licuadora,Hogar,San Miguel,Grupo Mayorista SV,80,21.28,29.7,2026-08-13
+P0057,Plancha,Hogar,San Miguel,Grupo Mayorista SV,37,14.52,22.27,2026-06-18
+P0058,Olla de presión,Hogar,San Miguel,Distribuidora Cuscatlán,22,30.04,37.59,2026-09-25
+P0059,Juego de sábanas,Hogar,San Miguel,Grupo Mayorista SV,7,14.33,19.76,2026-06-27
+P0060,Ventilador,Hogar,San Miguel,Distribuidora Cuscatlán,35,20.28,28.19,2026-07-21
+P0061,Taladro eléctrico,Ferretería,San Miguel,Grupo Mayorista SV,36,46.6,61.39,2026-07-19
+P0062,Juego de destornilladores,Ferretería,San Miguel,Distribuidora Cuscatlán,29,9.44,11.88,2026-06-22
+P0063,Cinta métrica,Ferretería,San Miguel,Grupo Mayorista SV,48,4.29,5.68,2026-06-24
+P0064,Pintura galón,Ferretería,San Miguel,Grupo Mayorista SV,53,17.87,23.98,2026-07-06
+P0065,Candado,Ferretería,San Miguel,Comercial Pacífico,46,4.83,7.2,2026-10-11
+P0066,Cuaderno universitario,Papelería,San Miguel,Importadora Centroamericana,16,1.14,1.52,2026-09-07
+P0067,Caja de lapiceros,Papelería,San Miguel,Grupo Mayorista SV,62,2.97,4.51,2026-10-09
+P0068,Resma de papel,Papelería,San Miguel,Comercial Pacífico,78,4.44,6.59,2026-09-28
+P0069,Mochila escolar,Papelería,San Miguel,Grupo Mayorista SV,71,10.58,15.96,2026-07-05
+P0070,Calculadora,Papelería,San Miguel,Grupo Mayorista SV,0,7.81,11.83,2026-10-08
+P0071,Aceite 1L,Alimentos,San Miguel,Grupo Mayorista SV,7,2.53,3.15,2026-08-03
+P0072,Arroz 5 lb,Alimentos,San Miguel,Distribuidora Cuscatlán,108,2.94,4.2,2026-06-26
+P0073,Frijoles 5 lb,Alimentos,San Miguel,Grupo Mayorista SV,55,4.27,6.18,2026-09-30
+P0074,Azúcar 5 lb,Alimentos,San Miguel,Comercial Pacífico,83,2.54,3.2,2026-07-19
+P0075,Café molido 1 lb,Alimentos,San Miguel,Importadora Centroamericana,48,4.02,4.69,2026-10-08
+P0076,"Televisor 43""",Electrónica,La Libertad,Grupo Mayorista SV,31,253.2,390.44,2026-10-04
+P0077,Audífonos Bluetooth,Electrónica,La Libertad,Importadora Centroamericana,38,17.44,26.66,2026-08-07
+P0078,Parlante portátil,Electrónica,La Libertad,Distribuidora Cuscatlán,44,32.17,38.91,2026-07-29
+P0079,Cargador USB-C,Electrónica,La Libertad,Importadora Centroamericana,87,5.8,7.32,2026-09-30
+P0080,Smartphone básico,Electrónica,La Libertad,Grupo Mayorista SV,14,120.42,158.17,2026-07-31
+P0081,Licuadora,Hogar,La Libertad,Comercial Pacífico,88,22.1,29.61,2026-10-10
+P0082,Plancha,Hogar,La Libertad,Distribuidora Cuscatlán,68,15.51,21.88,2026-07-23
+P0083,Olla de presión,Hogar,La Libertad,Distribuidora Cuscatlán,54,28.88,37.38,2026-08-24
+P0084,Juego de sábanas,Hogar,La Libertad,Importadora Centroamericana,28,14.22,19.31,2026-06-27
+P0085,Ventilador,Hogar,La Libertad,Comercial Pacífico,87,19.3,22.75,2026-08-17
+P0086,Taladro eléctrico,Ferretería,La Libertad,Comercial Pacífico,11,43.76,55.82,2026-09-05
+P0087,Juego de destornilladores,Ferretería,La Libertad,Comercial Pacífico,29,8.99,10.89,2026-07-05
+P0088,Cinta métrica,Ferretería,La Libertad,Grupo Mayorista SV,33,4.32,6.3,2026-06-22
+P0089,Pintura galón,Ferretería,La Libertad,Comercial Pacífico,75,17.57,20.28,2026-08-29
+P0090,Candado,Ferretería,La Libertad,Comercial Pacífico,24,5.29,8.18,2026-09-25
+P0091,Cuaderno universitario,Papelería,La Libertad,Importadora Centroamericana,104,1.21,1.58,2026-09-28
+P0092,Caja de lapiceros,Papelería,La Libertad,Distribuidora Cuscatlán,35,2.91,3.56,2026-08-20
+P0093,Resma de papel,Papelería,La Libertad,Grupo Mayorista SV,6,4.56,6.31,2026-09-10
+P0094,Mochila escolar,Papelería,La Libertad,Importadora Centroamericana,3,11.36,16.01,2026-07-20
+P0095,Calculadora,Papelería,La Libertad,Grupo Mayorista SV,60,8.16,10.49,2026-07-24
+P0096,Aceite 1L,Alimentos,La Libertad,Importadora Centroamericana,29,2.44,3.69,2026-08-06
+P0097,Arroz 5 lb,Alimentos,La Libertad,Distribuidora Cuscatlán,45,2.85,3.4,2026-08-29
+P0098,Frijoles 5 lb,Alimentos,La Libertad,Importadora Centroamericana,43,4.18,5.13,2026-08-25
+P0099,Azúcar 5 lb,Alimentos,La Libertad,Grupo Mayorista SV,56,2.67,3.08,2026-07-22
+P0100,Café molido 1 lb,Alimentos,La Libertad,Grupo Mayorista SV,40,4.02,5.39,2026-09-11
+P0101,"Televisor 43""",Electrónica,Sonsonate,Comercial Pacífico,57,273.43,409.25,2026-07-29
+P0102,Audífonos Bluetooth,Electrónica,Sonsonate,Comercial Pacífico,16,18.63,28.65,2026-06-21
+P0103,Parlante portátil,Electrónica,Sonsonate,Grupo Mayorista SV,15,29.85,35.81,2026-07-02
+P0104,Cargador USB-C,Electrónica,Sonsonate,Comercial Pacífico,51,6.06,9.34,2026-09-18
+P0105,Smartphone básico,Electrónica,Sonsonate,Distribuidora Cuscatlán,59,126.51,192.28,2026-06-23
+P0106,Licuadora,Hogar,Sonsonate,Comercial Pacífico,13,21.21,30.12,2026-07-18
+P0107,Plancha,Hogar,Sonsonate,Distribuidora Cuscatlán,25,15.81,18.49,2026-08-23
+P0108,Olla de presión,Hogar,Sonsonate,Comercial Pacífico,50,28.47,40.45,2026-08-03
+P0109,Juego de sábanas,Hogar,Sonsonate,Comercial Pacífico,90,13.73,20.47,2026-07-22
+P0110,Ventilador,Hogar,Sonsonate,Importadora Centroamericana,34,20.03,25.24,2026-07-26
+P0111,Taladro eléctrico,Ferretería,Sonsonate,Distribuidora Cuscatlán,109,46.95,69.16,2026-08-12
+P0112,Juego de destornilladores,Ferretería,Sonsonate,Grupo Mayorista SV,15,9.22,14.28,2026-08-16
+P0113,Cinta métrica,Ferretería,Sonsonate,Distribuidora Cuscatlán,92,4.06,4.89,2026-08-09
+P0114,Pintura galón,Ferretería,Sonsonate,Grupo Mayorista SV,74,17.15,24.08,2026-06-22
+P0115,Candado,Ferretería,Sonsonate,Grupo Mayorista SV,36,5.1,6.45,2026-06-30
+P0116,Cuaderno universitario,Papelería,Sonsonate,Distribuidora Cuscatlán,59,1.22,1.77,2026-07-05
+P0117,Caja de lapiceros,Papelería,Sonsonate,Grupo Mayorista SV,126,2.98,3.61,2026-08-06
+P0118,Resma de papel,Papelería,Sonsonate,Grupo Mayorista SV,75,4.53,6.07,2026-07-27
+P0119,Mochila escolar,Papelería,Sonsonate,Grupo Mayorista SV,60,11.58,14.17,2026-09-07
+P0120,Calculadora,Papelería,Sonsonate,Distribuidora Cuscatlán,65,8.13,10.76,2026-09-10
+P0121,Aceite 1L,Alimentos,Sonsonate,Distribuidora Cuscatlán,20,2.36,2.78,2026-10-09
+P0122,Arroz 5 lb,Alimentos,Sonsonate,Importadora Centroamericana,68,2.7,3.52,2026-06-20
+P0123,Frijoles 5 lb,Alimentos,Sonsonate,Distribuidora Cuscatlán,38,4.21,5.54,2026-09-25
+P0124,Azúcar 5 lb,Alimentos,Sonsonate,Grupo Mayorista SV,12,2.64,3.55,2026-08-20
+P0125,Café molido 1 lb,Alimentos,Sonsonate,Distribuidora Cuscatlán,5,3.84,4.91,2026-09-05
